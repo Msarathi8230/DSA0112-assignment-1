@@ -1,0 +1,9 @@
+Compile: PASS
+Command: g++ -std=c++17 -Wall -Wextra main.cpp -o program
+Compiler diagnostics:
+(none)
+Run: PASS
+Output:
+Airport weekday peak Rs 72
+Middle weekend Rs 18
+Inner monthly-pass fare Rs 0

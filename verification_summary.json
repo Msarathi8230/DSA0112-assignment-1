@@ -1,0 +1,77 @@
+{
+  "compiler_command": "g++ -std=c++17 -Wall -Wextra",
+  "results": {
+    "Task01/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task02/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task03/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task04/main.cpp": {
+      "compile": "PASS",
+      "warnings": "/mnt/data/DSA01-RegisterNumber-Assignment1/Task04/main.cpp: In function \u2018int main()\u2019:\n/mnt/data/DSA01-RegisterNumber-Assignment1/Task04/main.cpp:12:20: warning: comparison of integer expressions of different signedness: \u2018int\u2019 and \u2018unsigned int\u2019 [-Wsign-compare]\n   12 |     std::cout << (s<u ? \"s < u\" : \"s >= u\") << '\\n';\n      |                   ~^~\n",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task05/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task06/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task07/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task08/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task09/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task10/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task11/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    },
+    "Task12/main.cpp": {
+      "compile": "PASS",
+      "warnings": "",
+      "run": "PASS",
+      "stderr": ""
+    }
+  }
+}
